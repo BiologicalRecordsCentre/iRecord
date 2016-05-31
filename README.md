@@ -1,4 +1,4 @@
-# iRecord
+#![irecord](http://www.brc.ac.uk/irecord/sites/all/themes/irecord/logo.png)
 
 The goal of iRecord is to make it easier for wildlife sightings to be collated, 
 checked by experts and made available to support research and decision-making at 
@@ -7,3 +7,4 @@ community, explore dynamic maps and graphs of your data and make a real contribu
 to science and conservation.
 
 Visit: [irecord.org.uk](http://irecord.org.uk)
+
